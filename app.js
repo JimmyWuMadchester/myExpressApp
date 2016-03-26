@@ -61,5 +61,7 @@ app.use(function(err, req, res, next) {
 var msg = "Hello World";
 console.log(msg);
 
+var gitTestMsg = "I'm now testing if VS code can commit my change to GitHub.";
+
 
 module.exports = app;
