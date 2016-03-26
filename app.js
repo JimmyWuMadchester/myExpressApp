@@ -62,6 +62,7 @@ var msg = "Hello World";
 console.log(msg);
 
 var gitTestMsg = "I'm now testing if VS code can commit my change to GitHub.";
+var gitTestMsg2 = "Test if pull the change from GitHub correctly."
 
 
 module.exports = app;
